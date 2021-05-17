@@ -1,0 +1,244 @@
+  /*********************Tags Selectors**************************/
+ 
+ body{
+     
+     margin: 0px;
+     font-family: "Helvetics Nueue",Arial, Helvetica, sans-serif;
+     text-align: center;
+     color: white;
+     
+
+ }
+
+ button
+ {
+    background-color: transparent;   
+    border: 1px solid white;
+    color: white;
+ }
+ img{
+   
+    height: 50px;
+    width: 50px;
+    
+
+ }
+
+ h2{
+     margin-top: 0px;
+     font-family: 'Dancing Script', cursive;
+     font-size: 40px;
+     
+ }
+
+
+ p{
+     margin: 0px;
+ }
+
+ ul{
+     position: absolute;
+     right: 90px;
+     top: 70px;
+ }
+
+ li{
+     
+     list-style-type: none;
+     display: inline-block;
+     
+ }
+
+
+
+
+ /*********************Class Selectors**************************/
+
+
+
+ .top-container{
+    padding: 20px;
+     height: 150px;
+     position: relative;
+    background-color: #1f024c;
+    border-bottom: 2px solid;
+    padding: 100px;
+    
+    
+    
+    
+    
+}
+
+
+.middle-container{
+    background-color: #1a023d;
+    position: relative;
+    width: 100%;
+    height: 300px;
+    top: -2px;
+    padding-top: 30px;
+    
+    
+}
+
+.bottom-container{
+    
+    position: relative;
+    width: 100%;
+    height: 300px;
+    top: -2px;
+    padding-top: 30px;
+    background-color: #8f1383;
+    
+    
+
+}
+.num1{
+    position: absolute;
+    top: 10px;
+    left: 520px;
+    width: 100px;
+    height: 100px;
+    
+}
+.num2
+{
+    position: absolute;
+    bottom: 20px;
+    right: 250px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.foot-h2{
+    margin-bottom: 10px;
+}
+
+.foot-socials{
+
+
+    margin: 20px;
+
+}
+.sub{
+
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    
+}
+.subtitle{
+    position: absolute;
+    top:150px;
+    left: 500px;
+    
+}
+.pic1:hover{
+    max-zoom: 10%;
+}
+
+.pic1
+
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+   left: 500px;
+   
+   
+}
+.pic2
+{
+    position: absolute;
+   width: 100px;
+   height: 100px;
+   left: 700px;
+   
+   
+}
+.pic3
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+   right: 500px;
+   
+   
+}
+.pic4
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+   left: 500px;
+   top: 200px;
+   
+   
+}
+
+.pic5
+{
+    position: absolute;
+   width: 100px;
+   height: 100px;
+   left: 700px;
+   top: 200px;
+   
+   
+}
+
+.pic6
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+   right: 500px;
+   top: 200px;
+   
+   
+}
+
+
+
+
+
+
+
+ /*********************ID Selectors**************************/
+
+#contact
+{
+    margin-left: 10px;
+
+}
+
+
+
+
+#hire
+{
+    margin-right: 10px;
+
+
+}
+#prof
+{
+        background-image: url("/pics/to.jpg");
+        background-size: 200px;
+        height: 50px;
+        width: 50px;
+        text-indent: -999999px;
+        background-repeat: no-repeat;
+        background-color: darkolivegreen;
+        display: inline-block;
+        position: absolute;
+        left: 90px;
+        top: 80px;
+        padding: 40px;
+        border-right: 3px solid #150133;
+        border-bottom: 3px solid #150133;
+}
+
+
+ 
